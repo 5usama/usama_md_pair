@@ -102,7 +102,7 @@ Stay cool and hack smart. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "UsamaMD",
 thumbnailUrl: "https://files.catbox.moe/oolnnr.jp",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 1,
@@ -138,7 +138,7 @@ Stay cool and hack smart. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "UsamaMD",
 thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 2,
